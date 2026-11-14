@@ -4,3 +4,4 @@ sentence-transformers
 chromadb
 numpy
 openai>=1.0
+langgraph
